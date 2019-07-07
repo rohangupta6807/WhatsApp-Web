@@ -3,8 +3,9 @@ Use to store the latest text message of a group in a text file.
 
 
 # First run the program.
-    Once the window opene, scan the QR code.
-      Enter the group name in the terminal
+    Run the WhatsappWeb.java file
+        Once the window opens, scan the QR code.
+            Enter the group name in the terminal
     
 # Terminate the program
       Send the shoutdown text in the whatsapp group.
